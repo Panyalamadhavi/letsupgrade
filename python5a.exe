@@ -1,0 +1,10 @@
+list=input("enter list")
+listy=input("enter listy")
+if(x in list for x in listy):
+ print("its a match")
+else:
+        print("its gone")
+        
+    
+    
+
